@@ -1,0 +1,12 @@
+[package]
+name = "waveviz"
+description = "A versatile and standalone visualization library for Rust to create visual representations of signals, including time-domain data, frequency spectra and more."
+authors = ["sergiorf <sergio.rodriguez.freire@gmail.com>"]
+version = "0.1.0"
+edition = "2021"
+readme = "../README.md"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/sergiorf/rustwave.git"
+
+[dependencies]
+plotters = "0.3.5"

@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "wavesignal",
+    "waveviz"
+]
+
+[profile.release]
+debug = true
